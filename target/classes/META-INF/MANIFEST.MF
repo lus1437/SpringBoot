@@ -1,0 +1,30 @@
+Manifest-Version: 1.0
+Implementation-Title: lus1437
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: lus1437
+Implementation-Vendor-Id: it.cast
+Class-Path: lib/spring-boot-starter-web-2.0.1.RELEASE.jar lib/spring-b
+ oot-starter-2.0.1.RELEASE.jar lib/spring-boot-2.0.1.RELEASE.jar lib/s
+ pring-boot-autoconfigure-2.0.1.RELEASE.jar lib/spring-boot-starter-lo
+ gging-2.0.1.RELEASE.jar lib/logback-classic-1.2.3.jar lib/logback-cor
+ e-1.2.3.jar lib/slf4j-api-1.7.25.jar lib/log4j-to-slf4j-2.10.0.jar li
+ b/log4j-api-2.10.0.jar lib/jul-to-slf4j-1.7.25.jar lib/javax.annotati
+ on-api-1.3.2.jar lib/spring-core-5.0.5.RELEASE.jar lib/spring-jcl-5.0
+ .5.RELEASE.jar lib/snakeyaml-1.19.jar lib/spring-boot-starter-json-2.
+ 0.1.RELEASE.jar lib/jackson-databind-2.9.5.jar lib/jackson-annotation
+ s-2.9.0.jar lib/jackson-core-2.9.5.jar lib/jackson-datatype-jdk8-2.9.
+ 5.jar lib/jackson-datatype-jsr310-2.9.5.jar lib/jackson-module-parame
+ ter-names-2.9.5.jar lib/spring-boot-starter-tomcat-2.0.1.RELEASE.jar 
+ lib/tomcat-embed-core-8.5.29.jar lib/tomcat-embed-el-8.5.29.jar lib/t
+ omcat-embed-websocket-8.5.29.jar lib/hibernate-validator-6.0.9.Final.
+ jar lib/validation-api-2.0.1.Final.jar lib/jboss-logging-3.3.2.Final.
+ jar lib/classmate-1.3.4.jar lib/spring-web-5.0.5.RELEASE.jar lib/spri
+ ng-beans-5.0.5.RELEASE.jar lib/spring-webmvc-5.0.5.RELEASE.jar lib/sp
+ ring-aop-5.0.5.RELEASE.jar lib/spring-context-5.0.5.RELEASE.jar lib/s
+ pring-expression-5.0.5.RELEASE.jar
+Build-Jdk: 1.8.0_201
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/lus1437
+Created-By: Maven Integration for Eclipse
+Main-Class: it.cast.App
+
